@@ -11,7 +11,7 @@ ol li {
 }
 .exam {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-color:white;
+color:coral;
 }
 #table {
     line-height:200%
@@ -29,5 +29,5 @@ a.foo:hover {
 }
 a.foo {
   text-decoration-color: white;
-  color: white;
+  color: green;
 }
